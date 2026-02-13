@@ -1,0 +1,4 @@
+repository "My project/TransSib@2475932748474@cloud"
+  path "/"
+    br "/main"
+    co "/main"
